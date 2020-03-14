@@ -17,9 +17,9 @@ import {AppRegistry} from 'react-native';
 // import App from './test/flatListTest';
 // import App from './pages/test/SectionListTest';
 // import App from './pages/status/App';
-import App from './pages/redux/App';
+// import App from './pages/redux/App';
+import App from './pages/navigators/App2';
 import {name as appName} from './app.json';
-import 'react-native-gesture-handler';
 import React from 'react';
 
 // Pass the store into the Provider
